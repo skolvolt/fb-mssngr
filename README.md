@@ -18,7 +18,7 @@ A lightweight native Linux desktop app for Facebook Messenger, built with **pywe
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fb-messenger-linux.git
+git clone https://github.com/skolvolt/fb-messenger-linux.git
 cd fb-messenger-linux
 chmod +x install.sh
 ./install.sh
